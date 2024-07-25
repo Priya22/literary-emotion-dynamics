@@ -1,6 +1,6 @@
 # Literary Emotion Dynamics
 
-Code and data for the paper `The Emotion Dynamics of Literary Novels`.
+Code and data for the paper [The Emotion Dynamics of Literary Novels](https://arxiv.org/abs/2403.02474).
 
 ## Emotion Arcs in Novels
 Characters (fictional named entities) are often at the center of the emotional connection that readers form with a story; we identify with their struggles, react to their pain,
